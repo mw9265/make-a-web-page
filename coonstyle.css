@@ -1,0 +1,22 @@
+.title {color: red;}
+body {
+    text-align: center;
+    color: #294860;
+    background-color: #294860;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+} 
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+/* This is a CSS comment.*/
+
+
+/*
+Comments are only to help PEOPLE read a code file. The
+computer ignores them.
+*/
